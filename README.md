@@ -78,7 +78,7 @@ This project was developed as part of an **Operating Systems** course to better 
 
 **Faraz Jehangiri**
 Computer Science Student | Sir Syed University of Engineering & Technology
-[LinkedIn Profile](https://linkedin.com/in/your-link-here) | [GitHub](https://github.com/Faraz-jehangiri)
+[LinkedIn Profile](https://linkedin.com/in/www.linkedin.com/in/faraz-jehangiri-4a8411295) | [GitHub](https://github.com/Faraz-jehangiri)
 
 ---
 
